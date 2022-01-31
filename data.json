@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1. how many time do you eat in a day?",
+    "Q2. any previous work out experience  ?",
+    "Q3. how many calories o you eat in a day?",
+    "Q4. What's your daily water intake?"
+  ],
+  "answer": [
+    1,
+    1,
+    2,
+    4
+  ],
+  "options": [
+
+    ["3",
+      "2",
+      "5",
+      "6"
+    ],
+    ["yes I workout regularly ",
+      "yes, less than a year ago  ",
+      "yes,more than a year ago",
+      "No, I don't have any "
+    ],
+    ["0-1000",
+      "1000-3000",
+      "3000-5000",
+      "5000-7000"
+    ],
+    ["I only drink soda or cofee",
+      "2 glasses",
+      "3 to 6 glasses",
+      "More than 6 glasses"
+    ]
+  ]
+}
